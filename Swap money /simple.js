@@ -1,1 +1,1 @@
-document.getElementById("tt").innerHTML = ("Swap monnaie v1.2");
+document.getElementById("tt").innerHTML = ("SWAP MONNAIE v1.2");
