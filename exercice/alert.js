@@ -45,12 +45,16 @@ age >= 30 ? console.log(`A ${age} ans, vous êtes majeure.`) : console.log(`A ${
     console.log("Boucle terminer")  */
 
 
-let Ecolecsmo = {
+let Eco_lecsmo = {
 
-    Nombresprof : 23,
-    Nmbreclass : 10,
-    Nomprof : "mattieu,marc,jul ,jeans,paule,elyse"
-   
+    Nomb_resprof : 23,
+    Nmbr_eclass : 10,
+    Nom_prof : "mattieu,marc,jul ,jeans,paule,elyse"
+    Nomb_resprof : 223,
+
+
 }
+  
 
+console.log(Eco_lecsmo);
 
