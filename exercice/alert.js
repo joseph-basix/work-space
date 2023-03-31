@@ -50,11 +50,11 @@ let Eco_lecsmo = {
     Nomb_resprof : 23,
     Nmbr_eclass : 10,
     Nom_prof : "mattieu,marc,jul ,jeans,paule,elyse"
-    Nomb_resprof : 223,
+
 
 
 }
   
 
-console.log(Eco_lecsmo);
+console.log(Eco_lecsmo.Nom_prof);
 
