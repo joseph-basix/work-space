@@ -32,15 +32,25 @@ else{
 
 age >= 30 ? console.log(`A ${age} ans, vous êtes majeure.`) : console.log(`A ${age} ans, vous êtes encore mineur.`);*/
 
-let a = 1;
 
- while(a < 100000){
+
+/*let a = 1;
+
+ while(a < 10){
 
     console.log(`la valeur de la variable a est ${a}.`);
     a++;
 
      }
-    console.log("Boucle terminer")
+    console.log("Boucle terminer")  */
 
+
+let Ecolecsmo = {
+
+    Nombresprof : 23,
+    Nmbreclass : 10,
+    Nomprof : "mattieu,marc,jul ,jeans,paule,elyse"
+   
+}
 
 
