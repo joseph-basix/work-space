@@ -34,7 +34,7 @@ age >= 30 ? console.log(`A ${age} ans, vous êtes majeure.`) : console.log(`A ${
 
 let a = 1;
 
- while(a < 100){
+ while(a < 100000){
 
     console.log(`la valeur de la variable a est ${a}.`);
     a++;
