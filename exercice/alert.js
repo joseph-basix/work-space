@@ -5,12 +5,32 @@ document.getElementById("xy").innerHTML = ("Une simple page HTML");
 
 
 
+// METHODE  POUR DECLARER UNE FONCTION (1)
 
 
+/* let a= 2, b = 3 , result;
+
+function addNumber(){
+result = a+b;
+
+console.log(result);
+}
+
+addNumber(); */
+
+
+// METHODE  POUR DECLARER UNE FONCTION (2)
 
 
 let a= 2, b = 3 , result;
 
-result = a+b;
+let addNumber = function(){
 
-console.log(result);
+    result = a+b;
+    console.log(result)
+}
+
+addNumber();
+
+
+//METHODE  POUR ENVOYER DES DONNEE DANS UNE FONCTION
