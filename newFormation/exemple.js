@@ -10,4 +10,7 @@
 
 
 
- let monNom = "basix";
+ let prenom = "basix";
+ let nom    = "joseph";
+
+ console.log(' prenom ' + ' nom ' );
