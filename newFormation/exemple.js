@@ -1,16 +1,15 @@
+//  const postNom = "nicolas";
+//  const  nom   = "dupont";
 
-// let nom = "pierre,alice, result";
+//  console.log(" bonjour " + postNom + ' ' + nom + ' ' + '!');
 
-// result= "";
 
+
+let  num1 = 4, num2 = 5, result ;
+
+result =  (num1*num2) - 5;
+result ++;
 // console.log(result);
 
- //console.log('Bonjours toi ! '); console.log('hello word');
 
-
-
-
- let prenom = "basix";
- let nom    = "joseph";
-
- console.log(' prenom ' + ' nom ' );
+console.log("voila mes points" + '  ' + result + 10 + " Dieu soit louer ");
