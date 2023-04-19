@@ -67,7 +67,30 @@
 
 // 1.1 LES FONCTION ANONYME 
 
-let fonctionAnonyme = function() {
-    console.log('je suis une fonction anonyme');
+// let fonctionAnonyme = function() {
+//     console.log('je suis une fonction anonyme');
+// }
+// fonctionAnonyme();
+
+
+// // deuxiem facon d'appeler 
+
+
+// function (params) { console.log(object);}()
+
+
+
+function abracadabra () {
+    
+    let prenom= "jean";
+    let nom = "paul";
+    let Age= 30;
+
+ prompt('Quelle est votre prenom');
+  prompt('Quelle est votre nom ! ');
+ prompt('Quelle est votre age! ');
+
+     console.log(` Sapristi ! On ne m'avait pas prévenu que c'était vous  ${prenom}  ! Euh... Je veux dire... Monsieur le grand magicien ${nom} Cela fait déjà ${age} ans que vous faites rayonner notre contrée ! `);
+
 }
-fonctionAnonyme();
+abracadabra();
