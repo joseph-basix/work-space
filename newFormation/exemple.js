@@ -80,17 +80,28 @@
 
 
 
-function abracadabra () {
+// function abracadabra () {
     
-    let prenom= "jean";
-    let nom = "paul";
-    let Age= 30;
+//     let prenom= "jean";
+//     let nom = "paul";
+//     let Age= 30;
 
- prompt('Quelle est votre prenom');
-  prompt('Quelle est votre nom ! ');
- prompt('Quelle est votre age! ');
+//  prompt('Quelle est votre prenom');
+//   prompt('Quelle est votre nom ! ');
+//  prompt('Quelle est votre age! ');
 
-     console.log(` Sapristi ! On ne m'avait pas prévenu que c'était vous  ${prenom}  ! Euh... Je veux dire... Monsieur le grand magicien ${nom} Cela fait déjà ${age} ans que vous faites rayonner notre contrée ! `);
+//      console.log('vv')
+// }
 
+// abracadabra();
+
+let consommable = "carotte";
+
+switch(consommable) {
+     
+    case"carotte":
+       console.log('ceci est un fruit');
+
+       case"pomme":
+       console.log('ceci est un fruit');
 }
-abracadabra();
